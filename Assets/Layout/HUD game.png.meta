@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: c8aba50294342874fa039fa1818f2eca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 454720563683055519
+    second: HUD game_0
+  - first:
+      213: -4481938255226615220
+    second: HUD game_1
+  - first:
+      213: -4604646160577142800
+    second: HUD game_2
+  - first:
+      213: 8408575633940969573
+    second: HUD game_3
+  - first:
+      213: 2685757211227092026
+    second: HUD game_4
+  - first:
+      213: -5794681437054733233
+    second: HUD game_5
+  - first:
+      213: -1727719090377810638
+    second: HUD game_6
+  - first:
+      213: 1177451656120603038
+    second: HUD game_7
+  - first:
+      213: 3180819298306078113
+    second: HUD game_8
+  - first:
+      213: 103655618617207792
+    second: HUD game_9
+  - first:
+      213: -8242217780338473135
+    second: HUD game_10
+  - first:
+      213: -7734456540269211880
+    second: HUD game_11
+  - first:
+      213: 5177739430935487787
+    second: HUD game_12
+  - first:
+      213: -2771354423317121138
+    second: HUD game_13
+  - first:
+      213: -1510855209164543573
+    second: HUD game_14
+  - first:
+      213: -5298772871574932563
+    second: HUD game_15
+  - first:
+      213: 3842768027462333308
+    second: HUD game_16
+  - first:
+      213: -3271901254284469756
+    second: HUD game_17
+  - first:
+      213: -7524302014079040275
+    second: HUD game_18
+  - first:
+      213: 7882313353660721014
+    second: HUD game_19
+  - first:
+      213: 2475866411807107674
+    second: HUD game_20
+  - first:
+      213: 3340341371115172653
+    second: HUD game_21
+  - first:
+      213: 1240481160887359680
+    second: HUD game_22
+  - first:
+      213: 5550156199603499881
+    second: HUD game_23
+  - first:
+      213: 3451422396481916669
+    second: HUD game_24
+  - first:
+      213: 8391140224276845163
+    second: HUD game_25
+  - first:
+      213: 3110255886748925150
+    second: HUD game_26
+  - first:
+      213: -3580008838161278125
+    second: HUD game_27
+  - first:
+      213: 6491097312925850161
+    second: HUD game_28
+  - first:
+      213: -1414969918736978632
+    second: HUD game_29
+  - first:
+      213: 5851994369346458553
+    second: HUD game_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HUD game_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1198
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97d46681fd7f4600800000000000000
+      internalID: 454720563683055519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1202
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4acbf737e4fcc1c0800000000000000
+      internalID: -4481938255226615220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1005
+        width: 394
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffde62a6b20910c0800000000000000
+      internalID: -4604646160577142800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1108
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5687e001df241b470800000000000000
+      internalID: 8408575633940969573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1117
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34722034f9b54520800000000000000
+      internalID: 2685757211227092026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1033
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f447dcd3fe7259fa0800000000000000
+      internalID: -5794681437054733233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1030
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d9e5224a8e508e0800000000000000
+      internalID: -1727719090377810638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1029
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e919347fa06275010800000000000000
+      internalID: 1177451656120603038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 978
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5bd329c4a842c20800000000000000
+      internalID: 3180819298306078113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 978
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbe6a66c32407100800000000000000
+      internalID: 103655618617207792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 899
+        width: 299
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15744811992cd9d80800000000000000
+      internalID: -8242217780338473135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 913
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f8e8a61c0b9a490800000000000000
+      internalID: -7734456540269211880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_12
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 913
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25617064960bd740800000000000000
+      internalID: 5177739430935487787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_13
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 914
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87b973d5db2a89d0800000000000000
+      internalID: -2771354423317121138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_14
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 914
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9e2be213d580be0800000000000000
+      internalID: -1510855209164543573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_15
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 862
+        width: 220
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3bc4cb52af676b0800000000000000
+      internalID: -5298772871574932563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 827
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73fe1f3921445530800000000000000
+      internalID: 3842768027462333308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 827
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a183ef42fd792d0800000000000000
+      internalID: -3271901254284469756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 827
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de400140f2f449790800000000000000
+      internalID: -7524302014079040275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_19
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 827
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677e34d9b3a936d60800000000000000
+      internalID: 7882313353660721014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_20
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 827
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a6513426b0c5220800000000000000
+      internalID: 2475866411807107674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 753
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d237cd577c64b5e20800000000000000
+      internalID: 3340341371115172653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 753
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c851412b03173110800000000000000
+      internalID: 1240481160887359680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_23
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 753
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9637c4558ad160d40800000000000000
+      internalID: 5550156199603499881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_24
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 753
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfec128126ae5ef20800000000000000
+      internalID: 3451422396481916669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_25
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 751
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6253886391537470800000000000000
+      internalID: 8391140224276845163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 631
+        width: 396
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcbc3a0049d92b20800000000000000
+      internalID: 3110255886748925150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 287
+        width: 289
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b53acede0415ec0800000000000000
+      internalID: -3580008838161278125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_28
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 567
+        width: 91
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a10736d92051a50800000000000000
+      internalID: 6491097312925850161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 515
+        width: 95
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83da1d11b540d5ce0800000000000000
+      internalID: -1414969918736978632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD game_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 10
+        width: 600
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b35b7cafd5763150800000000000000
+      internalID: 5851994369346458553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

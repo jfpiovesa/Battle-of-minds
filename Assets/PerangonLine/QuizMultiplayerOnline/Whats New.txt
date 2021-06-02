@@ -1,0 +1,4 @@
+Ver 1.1
+- Limit Max Players in Game Settings to 2 Players.
+- Added slider to Game Setting to Set Answer Time Value (1-100). 
+- Added new Loading Bar: Ripple

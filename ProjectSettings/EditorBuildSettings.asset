@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/v2/Inicio_sc.unity
+    guid: 77672aa2a9675a14abc4189a391499b9
+  - enabled: 1
+    path: Assets/PerangonLine/QuizMultiplayerOnline/Scenes/MainMenu.unity
+    guid: 6cd8d94cf88b3bc4b9afda96889c2940
+  - enabled: 1
+    path: Assets/PerangonLine/QuizMultiplayerOnline/Scenes/GameScene.unity
+    guid: 514bcc83ad1577a44a9fb46339088c22
+  - enabled: 1
+    path: Assets/Scenes/Temas.unity
+    guid: 63b72a1ad4a99b64bad120a52c8c6ed6
+  - enabled: 1
+    path: Assets/Scenes/Nota.unity
+    guid: 80ab94ce78ebcc4408daaed30faeb69d
+  - enabled: 1
+    path: Assets/Scenes/T1.unity
+    guid: bbe3c7a7b2d4b22499c36fc468712c67
+  - enabled: 1
+    path: Assets/Scenes/T2.unity
+    guid: fc6f4a4c0c94fe64f8b28e6d5a5a416b
+  - enabled: 1
+    path: Assets/Scenes/T3.unity
+    guid: 00d558c47e545f74797e4ac9497794f1
+  m_configObjects: {}

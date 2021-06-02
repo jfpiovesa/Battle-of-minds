@@ -1,0 +1,30 @@
+=====================
+Installation Process
+=====================
+
+ 
+Step 1:
+Please import PUN 2 - FREE, from Unity Asset Store
+
+Step 2:
+Cretae App (Photon PUN) in https://dashboard.photonengine.com/en-US/
+
+and then copy App ID
+
+Step 3:
+Go to Unity Editor. Click Menu: "Window > Photon Unity Networking > PUN Wizard"
+
+Step 4:
+In the Pun Wizard Window, click Button: "Setup Project".
+Paste the App ID and click Button: Setup Project
+
+
+Step 5:
+Open and run scene: "Assets/PerangonLine/PhotonQuis/Scenes/Init.unity"
+
+Done.
+
+=============================
+contact support
+==============================
+email: perangonline1@gmail.com
