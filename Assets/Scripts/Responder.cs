@@ -95,10 +95,10 @@ public class Responder : MonoBehaviour
 
             startTime -= Time.deltaTime;
 
-            string minutes = ((int)startTime / 60).ToString();
-            string seconds = (startTime % 60).ToString("f0");
-            timerText.text = minutes + ":" + seconds;
-
+            // string minutes = ((int)startTime / 60).ToString();
+             string seconds = (startTime % 60).ToString("f0");
+            timerText.text =  seconds;
+          
         }    
 
         // para que se o tempo  for 0  volte o conometro a  o valor da contagem  quando as perguntas passarem 

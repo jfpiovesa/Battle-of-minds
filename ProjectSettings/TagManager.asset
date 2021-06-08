@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - true_answer
+  - _MainTex
+  - RS
+  - resposta
   layers:
   - Default
   - TransparentFX
@@ -41,4 +44,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 2210455885
     locked: 0

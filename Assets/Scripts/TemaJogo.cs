@@ -76,7 +76,7 @@ public class TemaJogo : MonoBehaviour
         }
 
 
-        txtinfoTema.text = "Você acertou "+ acertos.ToString() +" de " + numerosquetoes.ToString() +  " questões ";
+        txtinfoTema.text = " Você  acertou  "+ acertos.ToString() +"  de  " + numerosquetoes.ToString() +  "  questões  ";
         inftema.SetActive(true);
       //  btnPlay.interactable = true;
     }
@@ -84,7 +84,7 @@ public class TemaJogo : MonoBehaviour
     
     public void jogar()
     {
-        if(idtema >=0 )
+        if(idtema >= 1 )
         {
             cb.carregando("T" + idtema.ToString());
         }

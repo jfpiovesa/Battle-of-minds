@@ -45,7 +45,7 @@ public class _comandosBasicos : MonoBehaviour
     IEnumerator TimeCena()
     {
 
-        yield return new WaitForSeconds(0.6f);
+        yield return new WaitForSeconds(0.8f);
         SceneManager.LoadSceneAsync(nomeCena);
       
     }
