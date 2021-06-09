@@ -9,14 +9,14 @@ public class ButtonHome : MonoBehaviour
 {
 
     private Button thisBtn;
-
+    public Animator an;
     public int SceneBuildIndexToLoad;
 
     IEnumerator loadScene()
     {
         yield return new WaitForSeconds(0.7f);
         PhotonNetwork.LeaveRoom();
-        PhotonNetwork.Disconnect();
+        PhotonNetwork.Disconnect();       
         SceneManager.LoadScene(SceneBuildIndexToLoad);
     }
 
@@ -25,6 +25,7 @@ public class ButtonHome : MonoBehaviour
     {
         thisBtn = GetComponent<Button>();
         thisBtn.onClick.AddListener(() => {
+            an.gameObject.GetComponent<Animator>().SetBool("Verdadeiro", true);
             StartCoroutine("loadScene");
             thisBtn.enabled = false;
         });

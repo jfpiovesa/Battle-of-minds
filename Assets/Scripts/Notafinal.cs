@@ -19,7 +19,6 @@ public class Notafinal : MonoBehaviour
     private int acertos;
     int peguntas;
 
-    Responder Responder;
 
     void Start()
     {
@@ -65,6 +64,7 @@ public class Notafinal : MonoBehaviour
    
     public void jogarnovamente()
     {
+
         cb.carregando("T" + idtema.ToString());
     }
 }
