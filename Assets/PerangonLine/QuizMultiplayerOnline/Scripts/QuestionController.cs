@@ -40,20 +40,20 @@ public class QuestionController : MonoBehaviour {
 
         List<Answer> answersList = new List<Answer>();
 
-        _questions.Add(new Question(2, "Escolha a opção apenas com bibliotecas gráficas:", false));
-        answersList.Add(new Answer(1, "Unity 3D e Cryengine", false));
-        answersList.Add(new Answer(2, "Unreal Engine e Unity 3D", false));
-        answersList.Add(new Answer(3, "Direct3D e OpenGL", true));
-        answersList.Add(new Answer(4, "Todas corretas", false));
+        _questions.Add(new Question(2, " Qual é a flor nacional do Japão ? ", false));
+        answersList.Add(new Answer(1, "Flor de Lótus", false));
+        answersList.Add(new Answer(2, "Rosas", false));
+        answersList.Add(new Answer(3, "Girassol", false));
+        answersList.Add(new Answer(4, "Flor de Cerejeira", true));
         _answers.Add(answersList);
 
 
-        _questions.Add(new Question(5, "No Unity3D, para que serve a aba 'inspector'?", false));
+        _questions.Add(new Question(5, " Quem foi o principal líder da Guerra dos Canudos ? ", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "Inspeção no código", false));
-        answersList.Add(new Answer(2, "Editar componentes e propriedades", true));
-        answersList.Add(new Answer(3, "Corrigir o código", false));
-        answersList.Add(new Answer(4, "Inspecionar o Project Body", false));
+        answersList.Add(new Answer(1, " Tiradentes ", false));
+        answersList.Add(new Answer(2, " Antônio Conselheiro ", true));
+        answersList.Add(new Answer(3, " Lucas de Oliveira ", false));
+        answersList.Add(new Answer(4, " Antonio de Souza Neto ", false));
         _answers.Add(answersList);
 
         /**
@@ -66,101 +66,101 @@ public class QuestionController : MonoBehaviour {
         _answers.Add(answersList);
         **/
 
-        _questions.Add(new Question(6, "O que é o Monobehaviour?", false));
+        _questions.Add(new Question(6, " Quantos centímetros existem em 5 metros ? ", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "Uma Classe-base da Unity", true));
-        answersList.Add(new Answer(2, "O Pai de todos os métodos", false));
-        answersList.Add(new Answer(3, "Árvore de comportamento padrão", false));
-        answersList.Add(new Answer(4, "Para Audio Mono ou Stereo", false));
+        answersList.Add(new Answer(1, " 500 cm ", true));
+        answersList.Add(new Answer(2, "5 cm", false));
+        answersList.Add(new Answer(3, "5000 cm", false));
+        answersList.Add(new Answer(4, "50 cm", false));
         _answers.Add(answersList);
 
-        _questions.Add(new Question(14, "Qual jogo foi desenvolvido utilizando UNREAL ENGINE?", false));
+        _questions.Add(new Question(14, "Qual é o nome do hormônio masculino produzido nos testículos?      ", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "Crysis 3", false));
-        answersList.Add(new Answer(3, "Farcry", false));
-        answersList.Add(new Answer(2, "Street Fighter V", true));
-        answersList.Add(new Answer(4, "Call of Duty Modern Warfare", false));
+        answersList.Add(new Answer(1, "Estrogênio", false));
+        answersList.Add(new Answer(3, "Teratogênico", false));
+        answersList.Add(new Answer(2, "Testosterona", true));
+        answersList.Add(new Answer(4, "Tireoide", false));
         _answers.Add(answersList);
 
-        _questions.Add(new Question(7, "Se tratando de UNREAL, o que é BLUEPRINT?", false));
+        _questions.Add(new Question(7, "Qual desses animais é mamífero?", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "Um template FPS", false));
-        answersList.Add(new Answer(2, "Uma base de arquitetura", false));
-        answersList.Add(new Answer(3, "Uma Impressão Visual Azul", false));
-        answersList.Add(new Answer(4, "Sistema de Código Visual", true));
+        answersList.Add(new Answer(1, "Polvo", false));
+        answersList.Add(new Answer(2, "Tubarão", false));
+        answersList.Add(new Answer(3, "Cavalo-marinho", false));
+        answersList.Add(new Answer(4, "Baleia ", true));
         _answers.Add(answersList);
 
-        _questions.Add(new Question(7, "PACMAN foi originalmente produzido para qual plataforma?", false));
+        _questions.Add(new Question(7, "Qual energia não é renovável?", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "Atari 2600", false));
-        answersList.Add(new Answer(2, "Atari 2021", false));
-        answersList.Add(new Answer(3, "Arcade", true));
-        answersList.Add(new Answer(4, "Comodoro", false));
+        answersList.Add(new Answer(1, "Solar", false));
+        answersList.Add(new Answer(2, "Eólica", false));
+        answersList.Add(new Answer(3, "Nuclear", true));
+        answersList.Add(new Answer(4, "Hidrelétrica", false));
         _answers.Add(answersList);
 
-        _questions.Add(new Question(8, "Por padrão a janela _________ do Unity permite ver todos os Gameobjects em cena", false));
+        _questions.Add(new Question(8, "Qual dos países abaixo não está localizado no continente africano?", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "Hierarchy", true));
-        answersList.Add(new Answer(2, "Inspector", false));
-        answersList.Add(new Answer(3, "Game Manager", false));
-        answersList.Add(new Answer(4, "Objectors Scene", false));
+        answersList.Add(new Answer(1, "Armênia", true));
+        answersList.Add(new Answer(2, "Angola", false));
+        answersList.Add(new Answer(3, "Togo", false));
+        answersList.Add(new Answer(4, "Marrocos", false));
         _answers.Add(answersList);
 
-        _questions.Add(new Question(9, "A janela SEQUENCER cria animações, e pertece a qual dessas Engines Gráficas?", false));
+        _questions.Add(new Question(9, "O osso mais longo e mais volumoso do corpo humano é o...", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "UNREAL ENGINE", true));
-        answersList.Add(new Answer(2, "UNITY 2019.3.4", false));
-        answersList.Add(new Answer(3, "CRYENGINE", false));
-        answersList.Add(new Answer(4, "Todas possuem Sequencer Window", false));
+        answersList.Add(new Answer(1, "Bigorna", false));
+        answersList.Add(new Answer(2, "Metacarpo", false));
+        answersList.Add(new Answer(3, "Martelo", false));
+        answersList.Add(new Answer(4, "Fêmur", true));
         _answers.Add(answersList);
 
 
-        _questions.Add(new Question(9, "O que faz a aba Navigation no Unity?", false));
+        _questions.Add(new Question(9, "O que pode ser Lixo Orgânico?", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "Da Aquele BAKE", false));
-        answersList.Add(new Answer(2, "Machine Learning", false));
-        answersList.Add(new Answer(3, "Cria malhas de navegação", true));
-        answersList.Add(new Answer(4, "Cria uma árvore", false));
+        answersList.Add(new Answer(1, "Vidro", false));
+        answersList.Add(new Answer(2, "Metal", false));
+        answersList.Add(new Answer(3, "Restos de alimentos", true));
+        answersList.Add(new Answer(4, "Plásticos", false));
         _answers.Add(answersList);
 
-        _questions.Add(new Question(10, "Extensão de Scripts CSharp?", false));
+        _questions.Add(new Question(10, "Quem possui a habilidade de Ecolocalização:", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(1, ".SC", false));
-        answersList.Add(new Answer(2, ".CS", true));
-        answersList.Add(new Answer(3, ".SV", false));
-        answersList.Add(new Answer(4, ".XML", false));
+        answersList.Add(new Answer(1, "Peixes", false));
+        answersList.Add(new Answer(2, "Golfinhos", true));
+        answersList.Add(new Answer(3, "Polvos", false));
+        answersList.Add(new Answer(4, "Carangueijos", false));
         _answers.Add(answersList);
 
-        _questions.Add(new Question(12, "Músico do Dire Straits que toca guitarra sem a palheta:", false));
+        _questions.Add(new Question(12, "Em que continente está localizado o Catar?", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "Mark Knopfler", true));
-        answersList.Add(new Answer(2, "Eric Clapton", false));
-        answersList.Add(new Answer(3, "Billy Idol", false));
-        answersList.Add(new Answer(4, "Supla", false));
+        answersList.Add(new Answer(1, "Ásia", true));
+        answersList.Add(new Answer(2, "África", false));
+        answersList.Add(new Answer(3, "Oceania", false));
+        answersList.Add(new Answer(4, "América do Sul", false));
         _answers.Add(answersList);
 
-        _questions.Add(new Question(13, "Complete a frase: Everbody Wants To Rule The _____", false));
+        _questions.Add(new Question(13, "O Tratado de Tordesilhas foi um acordo firmado entre:", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(2, "World", true));
-        answersList.Add(new Answer(1, "MonoBehaviour", false));
-        answersList.Add(new Answer(3, "Paper", false));
-        answersList.Add(new Answer(4, "Music", false));
+        answersList.Add(new Answer(2, "Holanda e Espanha", false));
+        answersList.Add(new Answer(1, "Portugal e Itália", false));
+        answersList.Add(new Answer(3, "Portugal e Espanha", true));
+        answersList.Add(new Answer(4, "Portugal e Holanda", false));
         _answers.Add(answersList);
 
-        _questions.Add(new Question(13, "Tipo de diagrama comportamental na Linguagem de Modelagem Unificada:", false));
+        _questions.Add(new Question(13, "O símbolo das Olimpiadas é composto por quantos anéis entrelaçados?", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "UML", false));
-        answersList.Add(new Answer(3, ".JSON", false));
-        answersList.Add(new Answer(2, "Diagrama de Estados", true));
-        answersList.Add(new Answer(4, "Estados Infinitos", false));
+        answersList.Add(new Answer(1, "7", false));
+        answersList.Add(new Answer(3, "5", true));
+        answersList.Add(new Answer(2, "6", false));
+        answersList.Add(new Answer(4, "8", false));
         _answers.Add(answersList);
 
-        _questions.Add(new Question(14, "Possui uma série com Lendário motor V8-302 com 199 cavalos de potência máxima:", false));
+        _questions.Add(new Question(14, "De qual cidade vieram os Beatles?", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "Dodge Charger Challenger", false));
-        answersList.Add(new Answer(3, "Galaxie Landau", false));
-        answersList.Add(new Answer(2, "Maverick", true));
-        answersList.Add(new Answer(4, "Opalão", false));
+        answersList.Add(new Answer(1, "Londres", false));
+        answersList.Add(new Answer(3, "Paris", false));
+        answersList.Add(new Answer(2, "Liverpool", true));
+        answersList.Add(new Answer(4, "Amsterdã", false));
         _answers.Add(answersList);
 
 
