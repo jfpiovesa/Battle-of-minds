@@ -14,6 +14,7 @@ public class Finish_II : MonoBehaviour
     public GameObject cameraIntro;
     public GameObject cameraGame;
     public GameObject[] outros;
+    public GameObject blockScreen;
 
     private void Awake()
     {
@@ -28,6 +29,7 @@ public class Finish_II : MonoBehaviour
     void Start()
     {
         startTime = Time.time;
+        blockScreen.SetActive(true);
     }
 
 
@@ -47,6 +49,7 @@ public class Finish_II : MonoBehaviour
         {
             //SceneManager.LoadScene(nome_cenas);
             cameraIntro.SetActive(false);
+            blockScreen.SetActive(false);
             cameraGame.SetActive(true);
             foreach(GameObject i in outros)
             {

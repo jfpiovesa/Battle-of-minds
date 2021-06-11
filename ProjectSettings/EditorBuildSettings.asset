@@ -10,7 +10,7 @@ EditorBuildSettings:
     guid: 77672aa2a9675a14abc4189a391499b9
   - enabled: 1
     path: Assets/PerangonLine/QuizMultiplayerOnline/Scenes/MainMenu.unity
-    guid: 6cd8d94cf88b3bc4b9afda96889c2940
+    guid: 3677a921b463cb14c8063f18cfd5d0e8
   - enabled: 1
     path: Assets/PerangonLine/QuizMultiplayerOnline/Scenes/GameScene.unity
     guid: 514bcc83ad1577a44a9fb46339088c22

@@ -1463,6 +1463,11 @@ PrefabInstance:
       propertyPath: m_AnchorMin.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9200738586467224487, guid: 0766ba60e3fe6544dbae5861d284d6ae,
+        type: 3}
+      propertyPath: m_Text
+      value: Config
+      objectReference: {fileID: 0}
     - target: {fileID: 9200738587025450828, guid: 0766ba60e3fe6544dbae5861d284d6ae,
         type: 3}
       propertyPath: m_RaycastTarget
