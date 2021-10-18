@@ -3605,306 +3605,329 @@ PrefabInstance:
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[0]
-      value: 1.500 metros
+      value: "Garantir disponibilidade e manejo sustent\xE1vel da \xE1gua e saneamento
+        para todos."
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[1]
-      value: "Ele deve retornar em 10 segundos para que n\xE3o seja desclassificado."
+      value: meta 6.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[2]
-      value: Trave de equilibrio
+      value: meta 6.2
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[3]
-      value: 7
+      value: meta 6.3
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[4]
-      value: Luge
+      value: meta 6.4
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[5]
-      value: 2
+      value: meta 6.5
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[6]
-      value: "Gr\xE9cia"
+      value: meta 6.6
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[7]
-      value: "An\xE9is ol\xEDmpicos"
+      value: meta 6.a
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[8]
-      value: 5
+      value: meta 6.b
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[9]
-      value: de 2 em 2 anos
+      value: 'meta 6.b '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[0]
-      value: "Qual a prova mais longa da nata\xE7\xE3o em piscina?"
+      value: "O que busca o ODS6 (Objetivo de Desenvolvimento Sustent\xE1vel)?"
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[1]
-      value: 'No Boxe, se um boxeador sofrer uma queda e cair fora do ringue:'
+      value: "At\xE9 2030, alcan\xE7ar o acesso universal e equitativo a \xE1gua
+        pot\xE1vel e segura para todos. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[2]
-      value: "Qual prova n\xE3o \xE9 realizada nas competi\xE7\xF5es de Ginastica
-        Art\xEDstica Masculina?"
+      value: "At\xE9 2030, alcan\xE7ar o acesso a saneamento e higiene adequados
+        e equitativos para todos, e acabar com a defeca\xE7\xE3o a c\xE9u aberto,
+        com especial aten\xE7\xE3o para as necessidades das mulheres e meninas e
+        daqueles em situa\xE7\xE3o de vulnerabilidade. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[3]
-      value: Uma partida individual de Tenis de Mesa tem quantos games para ter um
-        ganhador(Tendo de 11 pontos cada 1)?
+      value: "At\xE9 2030, melhorar a qualidade da \xE1gua, reduzindo a polui\xE7\xE3o,
+        eliminando despejo e minimizando a libera\xE7\xE3o de produtos qu\xEDmicos
+        e materiais perigosos, reduzindo \xE0 metade a propor\xE7\xE3o de \xE1guas
+        residuais n\xE3o tratadas e aumentando substancialmente a reciclagem e reutiliza\xE7\xE3o
+        segura globalmente. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[4]
-      value: "Qual esporte \xE9 praticado por uma pessoa, ou dupla, que desce num
-        carro em uma pista de gelo?"
+      value: "At\xE9 2030, aumentar substancialmente a efici\xEAncia do uso da \xE1gua
+        em todos os setores e assegurar retiradas sustent\xE1veis e o abastecimento
+        de \xE1gua doce para enfrentar a escassez de \xE1gua, e reduzir substancialmente
+        o n\xFAmero de pessoas que sofrem com a escassez de \xE1gua. Qual meta se
+        refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[5]
-      value: "Quantos juizes analisam a parte t\xE9cnica na patina\xE7\xE3o art\xEDstica?"
+      value: "At\xE9 2030, implementar a gest\xE3o integrada dos recursos h\xEDdricos
+        em todos os n\xEDveis, inclusive via coopera\xE7\xE3o transfronteiri\xE7a,
+        conforme apropriado. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[6]
-      value: "A cidade de Ol\xEDmpia, que deu origem aos jogos ol\xEDmpicos, fica
-        localizada em que pa\xEDs europeu:"
+      value: "At\xE9 2020, proteger e restaurar ecossistemas relacionados com a \xE1gua,
+        incluindo montanhas, florestas, zonas \xFAmidas, rios, aqu\xEDferos e lagos.
+        Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[7]
-      value: "Como \xE9 conhecido o simbolo ol\xEDmpico:"
+      value: "Ampliar a coopera\xE7\xE3o internacional e o apoio \xE0 capacita\xE7\xE3o
+        para os pa\xEDses em desenvolvimento em atividades e programas relacionados
+        \xE0 \xE1gua e saneamento, incluindo a coleta de \xE1gua, a dessaliniza\xE7\xE3o,
+        a efici\xEAncia no uso da \xE1gua, o tratamento de efluentes, a reciclagem
+        e as tecnologias de reuso. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[8]
-      value: "O s\xEDmbolo das Olimpiadas \xE9 composto por quantos an\xE9is entrela\xE7ados?"
+      value: "Apoiar e fortalecer a participa\xE7\xE3o das comunidades locais, para
+        melhorar a gest\xE3o da \xE1gua e do saneamento. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[9]
-      value: De em quantos anos as olimpiadas acontecem?
+      value: "Apoiar e fortalecer a participa\xE7\xE3o das comunidades locais, para
+        melhorar a gest\xE3o da \xE1gua e do saneamento. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[0]
-      value: 400 metros
+      value: "Assegurar uma vida saud\xE1vel e promover o bem-estar para todos, em
+        todas as idades."
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[1]
-      value: "A luta \xE9 interrompida e aguardado o retorno do pugilista."
+      value: 'meta 6.a '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[2]
-      value: Trave de equilibrio
+      value: meta 6.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[3]
-      value: 5
+      value: meta 6.a
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[4]
-      value: Luge
+      value: meta 6.4
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[5]
-      value: 5
+      value: meta 6.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[6]
-      value: "Gr\xE9cia"
+      value: meta 6.4
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[7]
-      value: "Cidade ol\xEDmpica"
+      value: meta 6.c
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[8]
-      value: 6
+      value: meta 6.b
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[9]
-      value: de 5 em 5 anos
+      value: meta 6.c
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[0]
-      value: 1.500 metros
+      value: "Garantir disponibilidade e manejo sustent\xE1vel da \xE1gua e saneamento
+        para todos."
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[1]
-      value: "Por atitude anti-desportiva do agressor, este \xE9 desclassificado."
+      value: meta 6.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[2]
-      value: Argolas
+      value: 'meta 6.a '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[3]
-      value: 8
+      value: meta 6.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[4]
-      value: Bobsled
+      value: meta 6.2
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[5]
-      value: 4
+      value: 'meta 6.4 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[6]
-      value: Luxemburgo
+      value: meta 6.6
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[7]
-      value: "Espirito ol\xEDmpico"
+      value: meta 6.a
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[8]
-      value: 5
+      value: meta 6.c
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[9]
-      value: de 4 em 4 anos
+      value: meta 6.a
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[0]
-      value: '1.000 metros '
+      value: "Alcan\xE7ar a igualdade de g\xEAnero e empoderar todas as mulheres
+        e meninas."
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[1]
-      value: "\xC9 considerado nocaute, e a luta \xE9 encerrada."
+      value: meta 6.6
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[2]
-      value: Solo
+      value: meta 6.9
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[3]
-      value: 7
+      value: meta 6.2
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[4]
-      value: Downhill
+      value: meta 6.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[5]
-      value: 2
+      value: meta 6.3
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[6]
-      value: "M\xF3naco"
+      value: meta 6.2
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[7]
-      value: "Bandeira ol\xEDmpica"
+      value: meta 6.6
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[8]
-      value: 8
+      value: meta 6.a
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[9]
-      value: de 3 em 3 anos
+      value: meta 6.4
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[0]
-      value: 800 metros
+      value: "Acabar com a fome, alcan\xE7ar a seguran\xE7a alimentar e melhoria
+        da nutri\xE7\xE3o e promover a agricultura sustent\xE1vel."
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[1]
-      value: "Ele deve retornar em 10 segundos para que n\xE3o seja desclassificado."
+      value: meta 6.9
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[2]
-      value: Barras pararelas
+      value: meta 6.2
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[3]
-      value: 2
+      value: meta 6.3
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[4]
-      value: Snowboard
+      value: meta 6.3
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[5]
-      value: 3
+      value: meta 6.5
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[6]
-      value: "Fran\xE7a"
+      value: meta 6.5
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[7]
-      value: "An\xE9is ol\xEDmpicos"
+      value: meta 6.b
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[8]
-      value: 7
+      value: 'meta 6.4 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[9]
-      value: de 2 em 2 anos
+      value: 'meta 6.b '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}

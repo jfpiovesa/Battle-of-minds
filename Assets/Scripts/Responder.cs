@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using UnityEngine.Events;
 using UnityEngine;
 using UnityEngine.UI;
+using System.IO;
 
 public class Responder : MonoBehaviour
 {
     public static Responder responder;
-  
+   
 
     public UnityEvent evente;
     public int idtema;//id do tema 
@@ -21,11 +22,11 @@ public class Responder : MonoBehaviour
     public Text resposta_D;
 
 
-    public string[] perguntas; //armazena todas as perguntas
-    public string[] alternativa_A;//armazena todas as alternativas a
-    public string[] alternativa_B;//armazena todas as alternativas b
-    public string[] alternativa_C;//armazena todas as alternativas c
-    public string[] alternativa_D;//armazena todas as alternativas d
+    public List<string> perguntas; //armazena todas as perguntas
+    public List<string> alternativa_A;//armazena todas as alternativas a
+    public List<string> alternativa_B;//armazena todas as alternativas b
+    public List<string> alternativa_C;//armazena todas as alternativas c
+    public List<string> alternativa_D;//armazena todas as alternativas d
 
     public string[] corretas;//armazena todas as alternativas correntas
 
@@ -37,7 +38,7 @@ public class Responder : MonoBehaviour
     private int notafinal = 0;
 
     public Text timerText;
-    public float startTime = 10.0f;
+    private float startTime = 60.0f;
     public Image conometro;
     public string l;
 
@@ -51,6 +52,9 @@ public class Responder : MonoBehaviour
     bool stopTime = true;
     bool rs = false;
     float timeRunTime = 0.5f;
+
+
+
     public void Awake()
     {
         if (responder == null)
@@ -68,10 +72,10 @@ public class Responder : MonoBehaviour
         
         idtema = PlayerPrefs.GetInt("idtema");
         id_perguntas = 0;
-        quetoes = perguntas.Length;
+        quetoes = perguntas.ToArray().Length;
         pergunta.text = perguntas[id_perguntas];
 
-        resposta_A.text = alternativa_A[id_perguntas];
+        resposta_A.text = perguntas[id_perguntas];
         resposta_B.text = alternativa_B[id_perguntas];
         resposta_C.text = alternativa_C[id_perguntas];
         resposta_D.text = alternativa_D[id_perguntas];
@@ -83,7 +87,7 @@ public class Responder : MonoBehaviour
     }
     private void Update()
     {
-        conometro.fillAmount = startTime/10;
+        conometro.fillAmount = startTime/60;
         if(stopTime == true)
         {
             rs = true;
@@ -117,18 +121,19 @@ public class Responder : MonoBehaviour
            
 
             proximapergunta();
-            startTime = 10;
+            startTime = 60;
             St();
             stopTime = true;
          
         }
     }
-   
+    
     public void resposta(string alternativa)// verificação de resposta se elas são verdadeiras e se são iguas as corretas se sim soma um acerto se não vai ate final e  pula pra proxima pergunta 
     {
 
         if (rs == true)
         {
+
             if (alternativa == "A" && m_pl == true)
             {
 
@@ -204,8 +209,8 @@ public class Responder : MonoBehaviour
         
 
            id_perguntas += 1;
-           startTime = 10;
-           if (id_perguntas <= (quetoes - 1))
+           startTime = 60;
+           if (id_perguntas < quetoes)
             {
 
            
@@ -221,7 +226,7 @@ public class Responder : MonoBehaviour
            }
            else
             {   // oque fazer quando termina as perguntas.
-                media = 10 * (acertos / quetoes);// calcula a media  na porcetagem dos acertos.
+                media = 10 * (acertos /10);// calcula a media  na porcetagem dos acertos.
 
                 notafinal = Mathf.RoundToInt(media);// arredonda a nota para o proximo inteiro,segindo a regra da matetmarica.
 
@@ -254,10 +259,13 @@ public class Responder : MonoBehaviour
     }
     public void LetraScolha(string letra)
     {
-        if(startTime >=0 )
+        startTime = 0.2f;
+        if (startTime >=0 )
                  l = letra;
                  m_pl = true;
 
     }
-        
+
+ 
+
 }

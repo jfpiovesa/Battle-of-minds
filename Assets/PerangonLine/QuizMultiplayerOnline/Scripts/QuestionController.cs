@@ -40,20 +40,20 @@ public class QuestionController : MonoBehaviour {
 
         List<Answer> answersList = new List<Answer>();
 
-        _questions.Add(new Question(2, "Escolha a opção apenas com bibliotecas gráficas:", false));
-        answersList.Add(new Answer(1, "Unity 3D e Cryengine", false));
-        answersList.Add(new Answer(2, "Unreal Engine e Unity 3D", false));
-        answersList.Add(new Answer(3, "Direct3D e OpenGL", true));
-        answersList.Add(new Answer(4, "Todas corretas", false));
+        _questions.Add(new Question(2, "O que busca o ODS7 (Objetivo de Desenvolvimento Sustentável)?", false));
+        answersList.Add(new Answer(1, "Assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades.", false));
+        answersList.Add(new Answer(2, "Fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento sustentável.", false));
+        answersList.Add(new Answer(3, "Conservação e uso sustentável dos oceanos, dos mares e dos recursos marinhos para o desenvolvimento sustentável.", false));
+        answersList.Add(new Answer(4, "Garantir acesso à energia barata, confiável, sustentável e renovável para todos.", true));
         _answers.Add(answersList);
 
 
-        _questions.Add(new Question(5, "No Unity3D, para que serve a aba 'inspector'?", false));
+        _questions.Add(new Question(5,"Até 2030, assegurar o acesso universal, confiável, moderno e a preços acessíveis a serviços de energia. Qual meta se refere o texto?", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "Inspeção no código", false));
-        answersList.Add(new Answer(2, "Editar componentes e propriedades", true));
-        answersList.Add(new Answer(3, "Corrigir o código", false));
-        answersList.Add(new Answer(4, "Inspecionar o Project Body", false));
+        answersList.Add(new Answer(1, "meta 7.c", false));
+        answersList.Add(new Answer(2, "Emeta 7.1", true));
+        answersList.Add(new Answer(3, "meta 7.6", false));
+        answersList.Add(new Answer(4, "meta 7.4", false));
         _answers.Add(answersList);
 
         /**
@@ -66,101 +66,69 @@ public class QuestionController : MonoBehaviour {
         _answers.Add(answersList);
         **/
 
-        _questions.Add(new Question(6, "O que é o Monobehaviour?", false));
+        _questions.Add(new Question(6, "Até 2030, aumentar substancialmente a participação de energias renováveis na matriz energética global. Qual meta se refere o texto?", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "Uma Classe-base da Unity", true));
-        answersList.Add(new Answer(2, "O Pai de todos os métodos", false));
-        answersList.Add(new Answer(3, "Árvore de comportamento padrão", false));
-        answersList.Add(new Answer(4, "Para Audio Mono ou Stereo", false));
+        answersList.Add(new Answer(1, "meta 7.c", false));
+        answersList.Add(new Answer(2, "meta 7.1", false));
+        answersList.Add(new Answer(3, "meta 7.3", false));
+        answersList.Add(new Answer(4, "meta 7.2", true));
         _answers.Add(answersList);
 
-        _questions.Add(new Question(14, "Qual jogo foi desenvolvido utilizando UNREAL ENGINE?", false));
+        _questions.Add(new Question(14, "Até 2030, dobrar a taxa global de melhoria da eficiência energética. Qual meta se refere o texto?", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "Crysis 3", false));
-        answersList.Add(new Answer(3, "Farcry", false));
-        answersList.Add(new Answer(2, "Street Fighter V", true));
-        answersList.Add(new Answer(4, "Call of Duty Modern Warfare", false));
+        answersList.Add(new Answer(1, "meta 7.c", false));
+        answersList.Add(new Answer(3, "meta 7.a", false));
+        answersList.Add(new Answer(2, "meta 7.3", true));
+        answersList.Add(new Answer(4, "meta 7.8", false));
         _answers.Add(answersList);
 
-        _questions.Add(new Question(7, "Se tratando de UNREAL, o que é BLUEPRINT?", false));
+        _questions.Add(new Question(7, "Até 2030, reforçar a cooperação internacional para facilitar o acesso a pesquisa e tecnologias de energia limpa, incluindo energias renováveis, eficiência energética e tecnologias de combustíveis fósseis avançadas e mais limpas, e promover o investimento em infraestrutura de energia e em tecnologias de energia limpa. Qual meta se refere o texto?", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "Um template FPS", false));
-        answersList.Add(new Answer(2, "Uma base de arquitetura", false));
-        answersList.Add(new Answer(3, "Uma Impressão Visual Azul", false));
-        answersList.Add(new Answer(4, "Sistema de Código Visual", true));
+        answersList.Add(new Answer(1, "meta 7.c", false));
+        answersList.Add(new Answer(2, "meta 7.a", true));
+        answersList.Add(new Answer(3, "meta 7.3 ", false));
+        answersList.Add(new Answer(4, "meta 7.1", false));
         _answers.Add(answersList);
 
-        _questions.Add(new Question(7, "PACMAN foi originalmente produzido para qual plataforma?", false));
+        _questions.Add(new Question(7, "Expandir a infraestrutura e modernizar a tecnologia para o fornecimento de serviços de energia modernos e sustentáveis para todos nos países em desenvolvimento, particularmente nos países menos desenvolvidos.... Qual meta se refere o texto?", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "Atari 2600", false));
-        answersList.Add(new Answer(2, "Atari 2021", false));
-        answersList.Add(new Answer(3, "Arcade", true));
-        answersList.Add(new Answer(4, "Comodoro", false));
+        answersList.Add(new Answer(1, "meta 7.c", false));
+        answersList.Add(new Answer(2, "meta 7.a ", false));
+        answersList.Add(new Answer(3, "meta 7.b", true));
+        answersList.Add(new Answer(4, "meta 7.c", false));
         _answers.Add(answersList);
 
-        _questions.Add(new Question(8, "Por padrão a janela _________ do Unity permite ver todos os Gameobjects em cena", false));
+        _questions.Add(new Question(8, "Qual a definição de serviços e energia modernos citado na meta 7.b?", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "Hierarchy", true));
-        answersList.Add(new Answer(2, "Inspector", false));
-        answersList.Add(new Answer(3, "Game Manager", false));
-        answersList.Add(new Answer(4, "Objectors Scene", false));
+        answersList.Add(new Answer(1, "São os que disponibilizam energias limpas e renováveis, com menor impacto no meio ambiente e maior emissão de gases de efeito estufa.", false));
+        answersList.Add(new Answer(2, "São os que disponibilizam energias limpas e renováveis, com maior impacto no meio ambiente e menor emissão de gases de efeito estufa.", false));
+        answersList.Add(new Answer(3, "São os que disponibilizam energias limpas e renováveis, com menor impacto no meio ambiente e menor emissão de gases de efeito estufa.", true));
+        answersList.Add(new Answer(4, "Nenhuma das alternativas", false));
         _answers.Add(answersList);
 
-        _questions.Add(new Question(9, "A janela SEQUENCER cria animações, e pertece a qual dessas Engines Gráficas?", false));
+        _questions.Add(new Question(9, "Qual a definição de energias limpas citada na meta 7.a?", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "UNREAL ENGINE", true));
-        answersList.Add(new Answer(2, "UNITY 2019.3.4", false));
-        answersList.Add(new Answer(3, "CRYENGINE", false));
-        answersList.Add(new Answer(4, "Todas possuem Sequencer Window", false));
+        answersList.Add(new Answer(1, "São as que liberam, após o processo de produção, resíduos ou gases poluentes.", false));
+        answersList.Add(new Answer(2, "São as que não liberam, durante seu processo de produção ou de consumo, resíduos ou gases poluentes.", true));
+        answersList.Add(new Answer(3, "São as que liberam, durante o seu consumo, resíduos ou gases poluentes.", false));
+        answersList.Add(new Answer(4, "Nenhuma das alternativas", false));
         _answers.Add(answersList);
 
 
-        _questions.Add(new Question(9, "O que faz a aba Navigation no Unity?", false));
+        _questions.Add(new Question(9, "Nas décadas de 1970 e 1980 houve, no Brasil, uma queda expressiva na intensidade energética, o que se deve isso?", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "Da Aquele BAKE", false));
-        answersList.Add(new Answer(2, "Machine Learning", false));
-        answersList.Add(new Answer(3, "Cria malhas de navegação", true));
-        answersList.Add(new Answer(4, "Cria uma árvore", false));
+        answersList.Add(new Answer(1, "A substituição da lenha por outros energéticos mais eficientes.", true));
+        answersList.Add(new Answer(2, "O uso exclusivo da energia nuclear, forma não poluente.", false));
+        answersList.Add(new Answer(3, "O uso de lenha para queimada, recurso que gera energia e é uma energia limpa.", false));
+        answersList.Add(new Answer(4, "Nenhuma das alternativas", false));
         _answers.Add(answersList);
 
-        _questions.Add(new Question(10, "Extensão de Scripts CSharp?", false));
+        _questions.Add(new Question(10, "Qual a definição de energias modernas citada na meta 7.1?", false));
         answersList = new List<Answer>();
-        answersList.Add(new Answer(1, ".SC", false));
-        answersList.Add(new Answer(2, ".CS", true));
-        answersList.Add(new Answer(3, ".SV", false));
-        answersList.Add(new Answer(4, ".XML", false));
-        _answers.Add(answersList);
-
-        _questions.Add(new Question(12, "Músico do Dire Straits que toca guitarra sem a palheta:", false));
-        answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "Mark Knopfler", true));
-        answersList.Add(new Answer(2, "Eric Clapton", false));
-        answersList.Add(new Answer(3, "Billy Idol", false));
-        answersList.Add(new Answer(4, "Supla", false));
-        _answers.Add(answersList);
-
-        _questions.Add(new Question(13, "Complete a frase: Everbody Wants To Rule The _____", false));
-        answersList = new List<Answer>();
-        answersList.Add(new Answer(2, "World", true));
-        answersList.Add(new Answer(1, "MonoBehaviour", false));
-        answersList.Add(new Answer(3, "Paper", false));
-        answersList.Add(new Answer(4, "Music", false));
-        _answers.Add(answersList);
-
-        _questions.Add(new Question(13, "Tipo de diagrama comportamental na Linguagem de Modelagem Unificada:", false));
-        answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "UML", false));
-        answersList.Add(new Answer(3, ".JSON", false));
-        answersList.Add(new Answer(2, "Diagrama de Estados", true));
-        answersList.Add(new Answer(4, "Estados Infinitos", false));
-        _answers.Add(answersList);
-
-        _questions.Add(new Question(14, "Possui uma série com Lendário motor V8-302 com 199 cavalos de potência máxima:", false));
-        answersList = new List<Answer>();
-        answersList.Add(new Answer(1, "Dodge Charger Challenger", false));
-        answersList.Add(new Answer(3, "Galaxie Landau", false));
-        answersList.Add(new Answer(2, "Maverick", true));
-        answersList.Add(new Answer(4, "Opalão", false));
+        answersList.Add(new Answer(1, "São as energias limpas e renováveis, que provocam menor impacto no meio ambiente e menor emissão de gases de efeito estufa.", true));
+        answersList.Add(new Answer(2, "São as que por meio de lenha, carvão, petróleo etc.", false));
+        answersList.Add(new Answer(3, "São as que liberam, durante o seu consumo e produção, resíduos ou gases poluentes.", false));
+        answersList.Add(new Answer(4, "Nenhuma das alternativas", false));
         _answers.Add(answersList);
 
 

@@ -3605,304 +3605,329 @@ PrefabInstance:
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[0]
-      value: Hungria
+      value: meta 5.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[1]
-      value: "Arm\xEAnia"
+      value: meta 5.2
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[2]
-      value: "\xC1sia"
+      value: meta 5.3
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[3]
-      value: Nova York
+      value: meta 5.4
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[4]
-      value: Argentina, Brasil e Paraguai
+      value: meta 5.5
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[5]
-      value: Rio Branco
+      value: meta 5.6
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[6]
-      value: "Rom\xEAnia"
+      value: meta 5.a
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[7]
-      value: "Tail\xE2ndia"
+      value: meta 5.b
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[8]
-      value: "\xC1rea ou regi\xE3o de drenagem de um rio principal e seus afluentes"
+      value: meta 5.c
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[9]
-      value: "\xC1sia"
+      value: "Alcan\xE7ar a igualdade de g\xEAnero e empoderar todas as mulheres
+        e meninas."
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[0]
-      value: "Budapeste \xE9 a capital de qual pa\xEDs europeu?"
+      value: "Acabar com todas as formas de discrimina\xE7\xE3o contra todas as mulheres
+        e meninas em toda partes. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[1]
-      value: "Qual dos pa\xEDses abaixo n\xE3o est\xE1 localizado no continente africano?"
+      value: "Eliminar todas as formas de viol\xEAncia contra todas as mulheres e
+        meninas nas esferas p\xFAblicas e privadas, incluindo o tr\xE1fico e explora\xE7\xE3o
+        sexual e de outros tipos. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[2]
-      value: "Em que continente est\xE1 localizado o Catar?"
+      value: "Eliminar todas as pr\xE1ticas nocivas, como os casamentos prematuros,
+        for\xE7ados e de crian\xE7as e mutila\xE7\xF5es genitais femininas. Qual
+        meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[3]
-      value: "A famosa Est\xE1tua da Liberdade \xE9 uma escultura localizada em..."
+      value: "Reconhecer e valorizar o trabalho de assist\xEAncia e dom\xE9stico
+        n\xE3o remunerado, por meio da disponibiliza\xE7\xE3o de servi\xE7os p\xFAblicos,
+        infraestrutura e pol\xEDticas de prote\xE7\xE3o social, bem como a promo\xE7\xE3o
+        da responsabilidade compartilhada dentro do lar e da fam\xEDlia, conforme
+        os contextos nacionais. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[4]
-      value: "O rio Paran\xE1 passa por tr\xEAs pa\xEDses, que s\xE3o:"
+      value: "Garantir a participa\xE7\xE3o plena e efetiva das mulheres e a igualdade
+        de oportunidades para a lideran\xE7a em todos os n\xEDveis de tomada de decis\xE3o
+        na vida pol\xEDtica, econ\xF4mica e p\xFAblica. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[5]
-      value: "Qual \xE9 a capital do Acre?"
+      value: "Assegurar o acesso universal \xE0 sa\xFAde sexual e reprodutiva e os
+        direitos reprodutivos, como acordado em conformidade com o Programa de A\xE7\xE3o
+        da Confer\xEAncia Internacional sobre Popula\xE7\xE3o e Desenvolvimento e
+        com a Plataforma de A\xE7\xE3o de Pequim e os documentos resultantes de suas
+        confer\xEAncias de revis\xE3o. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[6]
-      value: "Qual destes pa\xEDs n\xE3o tem o ingl\xEAs como uma das l\xEDnguas
-        oficiais?"
+      value: "Realizar reformas para dar \xE0s mulheres direitos iguais aos recursos
+        econ\xF4micos, bem como o acesso a propriedade e controle sobre a terra e
+        outras formas de propriedade, servi\xE7os financeiros, heran\xE7a e os recursos
+        naturais, de acordo com as leis nacionais. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[7]
-      value: "Qual dos pa\xEDses abaixo n\xE3o faz fronteira com a China?"
+      value: "Aumentar o uso de tecnologias de base, em particular as tecnologias
+        de informa\xE7\xE3o e comunica\xE7\xE3o, para promover o empoderamento das
+        mulheres. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[8]
-      value: "O que \xE9 uma bacia hidrogr\xE1fica?"
+      value: "Adotar e fortalecer pol\xEDticas s\xF3lidas e legisla\xE7\xE3o aplic\xE1vel
+        para a promo\xE7\xE3o da igualdade de g\xEAnero e o empoderamento de todas
+        as mulheres e meninas em todos os n\xEDveis. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[9]
-      value: "O maior dos continentes, tanto em \xE1rea como em popula\xE7\xE3o,
-        \xE9 a:"
+      value: "O que busca o ODS5 (Objetivo de Desenvolvimento Sustent\xE1vel)?"
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[0]
-      value: "Eslov\xE1quia"
+      value: meta 5.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[1]
-      value: Togo
+      value: meta 5.2
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[2]
-      value: "Am\xE9rica do Sul"
+      value: meta 5.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[3]
-      value: Nova York
+      value: 'meta 5.1 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[4]
-      value: Brasil, Uruguai e Chile
+      value: meta 5.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[5]
-      value: Porto Velho
+      value: meta 5.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[6]
-      value: "Canad\xE1"
+      value: meta 5.a
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[7]
-      value: "Tail\xE2ndia"
+      value: meta 5.d
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[8]
-      value: 'Nenhuma das alternativas '
+      value: meta 5.a
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[9]
-      value: Europa
+      value: "Assegurar uma vida saud\xE1vel e promover o bem-estar para todos, em
+        todas as idades."
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[0]
-      value: Dinamarca
+      value: 'meta 5.a '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[1]
-      value: Angola
+      value: meta 5.3
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[2]
-      value: "\xC1sia"
+      value: meta 5.4
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[3]
-      value: Washington
+      value: meta 5.4
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[4]
-      value: Brasil, Uruguai e Paraguai
+      value: meta 5.6
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[5]
-      value: Rio Branco
+      value: meta 5.5
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[6]
-      value: "Rom\xEAnia"
+      value: meta 5.d
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[7]
-      value: "Mong\xF3lia"
+      value: meta 5.c
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[8]
-      value: Baleia-cinzenta
+      value: meta 5.c
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[9]
-      value: "\xC1frica"
+      value: "Assegurar a educa\xE7\xE3o inclusiva e equitativa e de qualidade, e
+        promover oportunidades de aprendizagem ao longo da vida para todos."
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[0]
-      value: Hungria
+      value: meta 5.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[1]
-      value: Marrocos
+      value: meta 5.7
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[2]
-      value: "\xC1frica"
+      value: meta 5.3
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[3]
-      value: Los Angeles
+      value: meta 5.3
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[4]
-      value: Argentina, Brasil e Paraguai
+      value: meta 5.5
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[5]
-      value: "S\xE3o Lu\xEDs"
+      value: meta 5.a
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[6]
-      value: "\xC1frica do Sul"
+      value: meta 5.b
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[7]
-      value: "\xCDndia"
+      value: 'meta 5.a '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[8]
-      value: "Instrumento para medir o volume de \xE1gua nos rios"
+      value: meta 5.b
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[9]
-      value: Oceania
+      value: "Alcan\xE7ar a igualdade de g\xEAnero e empoderar todas as mulheres
+        e meninas."
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[0]
-      value: "Eslov\xEAnia"
+      value: meta 5.3
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[1]
-      value: "Arm\xEAnia"
+      value: 'meta 5.1 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[2]
-      value: Oceania
+      value: meta 5.2
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[3]
-      value: "Filad\xE9lfia"
+      value: meta 5.c
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[4]
-      value: Brasil, Uruguai e Paraguai
+      value: meta 5.b
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[5]
-      value: Boa Vista
+      value: meta 5.6
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[6]
-      value: Jamaica
+      value: meta 5.c
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[7]
-      value: "R\xFAssia"
+      value: meta 5.b
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[8]
-      value: "\xC1rea ou regi\xE3o de drenagem de um rio principal e seus afluentes"
+      value: meta 5.d
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[9]
-      value: "\xC1sia"
+      value: "Acabar com a fome, alcan\xE7ar a seguran\xE7a alimentar e melhoria
+        da nutri\xE7\xE3o e promover a agricultura sustent\xE1vel."
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}

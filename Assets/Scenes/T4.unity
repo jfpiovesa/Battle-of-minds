@@ -3605,304 +3605,334 @@ PrefabInstance:
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[0]
-      value: "Um mil\xE9simo"
+      value: meta 4.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[1]
-      value: Infinitos elementos
+      value: meta 4.2
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[2]
-      value: "Mede mais que 0\xBA e menos que 90\xBA"
+      value: meta 4.3
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[3]
-      value: "Per\xEDodo de 5 anos"
+      value: meta 4.4
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[4]
-      value: "Um pol\xEDgono com 10 lados"
+      value: meta 4.5
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[5]
-      value: "O produto deste n\xFAmero por todos inteiros anteriores a ele, at\xE9
-        chegar ao 1"
+      value: meta 4.6
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[6]
-      value: 500 cm
+      value: meta 4.7
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[7]
-      value: "Cent\xE9simo"
+      value: meta 4.a
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[8]
-      value: 1000 quilogramas
+      value: meta 4.b
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[9]
-      value: Seis faces quadradas
+      value: meta 4.c
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[0]
-      value: "Dividir uma unidade em 1000 partes iguais, cada parte ser\xE1"
+      value: "At\xE9 2030, garantir que todas as meninas e meninos completem o ensino
+        prim\xE1rio e secund\xE1rio gratuito, equitativo e de qualidade, que conduza
+        a resultados de aprendizagem relevantes e eficazes. Qual meta se refere o
+        texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[1]
-      value: "Quantos elementos possui o conjunto dos n\xFAmeros naturais?"
+      value: "At\xE9 2030, garantir que todos as meninas e meninos tenham acesso
+        a um desenvolvimento de qualidade na primeira inf\xE2ncia, cuidados e educa\xE7\xE3o
+        pr\xE9-escolar, de modo que eles estejam prontos para o ensino prim\xE1rio.
+        Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[2]
-      value: "\xC2ngulo agudo \xE9 aquele que..."
+      value: "At\xE9 2030, assegurar a igualdade de acesso para todos os homens e
+        mulheres \xE0 educa\xE7\xE3o t\xE9cnica, profissional e superior de qualidade,
+        a pre\xE7os acess\xEDveis, incluindo universidade. Qual meta se refere o
+        texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[3]
-      value: "O que significa um quinqu\xEAnio?"
+      value: "At\xE9 2030, aumentar substancialmente o n\xFAmero de jovens e adultos
+        que tenham habilidades relevantes, inclusive compet\xEAncias t\xE9cnicas
+        e profissionais, para emprego, trabalho decente e empreendedorismo. Qual
+        meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[4]
-      value: "O que \xE9 um dec\xE1gono?"
+      value: "At\xE9 2030, eliminar as disparidades de g\xEAnero na educa\xE7\xE3o
+        e garantir a igualdade de acesso a todos os n\xEDveis de educa\xE7\xE3o e
+        forma\xE7\xE3o profissional para os mais vulner\xE1veis, incluindo as pessoas
+        com defici\xEAncia, povos ind\xEDgenas e as crian\xE7as em situa\xE7\xE3o
+        de vulnerabilidade. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[5]
-      value: "O fatorial de um n\xFAmero \xE9..."
+      value: "At\xE9 2030, garantir que todos os jovens e uma substancial propor\xE7\xE3o
+        dos adultos, homens e mulheres estejam alfabetizados e tenham adquirido o
+        conhecimento b\xE1sico de matem\xE1tica. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[6]
-      value: "Quantos cent\xEDmetros existem em 5 metros?"
+      value: "\"Garantir que todos os alunos adquiram conhecimentos e habilidades
+        necess\xE1rias para promover o desenvolvimento sustent\xE1vel, entre outros,
+        por meio da educa\xE7\xE3o para o desenvolvimento sustent\xE1vel e estilos
+        de vida sustent\xE1veis...\". Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[7]
-      value: "Ao dividir uma unidade em 100 partes iguais, cada parte ser\xE1 um..."
+      value: "Construir e melhorar instala\xE7\xF5es f\xEDsicas para a educa\xE7\xE3o,
+        apropriadas para crian\xE7as e sens\xEDveis \xE0s defici\xEAncias e ao g\xEAnero
+        e que proporcionem ambientes de aprendizagem seguros, n\xE3o violentos, inclusivos
+        e eficazes para todos. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[8]
-      value: 'Uma tonelada corresponde a:'
+      value: "\"Substancialmente ampliar globalmente o n\xFAmero de bolsas de estudo
+        para os pa\xEDses em desenvolvimento, em particular os pa\xEDses menos desenvolvidos,
+        pequenos Estados insulares em desenvolvimento e os pa\xEDses africanos, para
+        o ensino superior, incluindo programas de forma\xE7\xE3o profissional...\".
+        Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[9]
-      value: Quantas faces tem um cubo?
+      value: "Substancialmente aumentar o contingente de professores qualificados,
+        inclusive por meio da coopera\xE7\xE3o internacional para a forma\xE7\xE3o
+        de professores, nos pa\xEDses em desenvolvimento, especialmente os pa\xEDses
+        menos desenvolvidos e pequenos Estados insulares em desenvolvimento. Qual
+        meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[0]
-      value: "Um mil\xE9simo"
+      value: meta 5.9
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[1]
-      value: "Apenas 10, que s\xE3o os n\xFAmeros de 0 a 9"
+      value: meta 4.a
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[2]
-      value: "Mede 90\xBA"
+      value: meta 4.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[3]
-      value: Figura de 5 lados
+      value: meta 4.3
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[4]
-      value: "Um pol\xEDgono com 10 lados"
+      value: meta 4.3
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[5]
-      value: "A multiplica\xE7\xE3o deste n\xFAmero por ele mesmo"
+      value: meta 4.3
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[6]
-      value: 500 cm
+      value: meta 4.3
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[7]
-      value: "D\xE9cimo"
+      value: meta 4.b
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[8]
-      value: 1000 quilogramas
+      value: meta 4.b
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[9]
-      value: Seis faces redondas
+      value: meta 4.b
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[0]
-      value: "Um d\xE9cimo"
+      value: 'meta 3.7 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[1]
-      value: 100 elementos
+      value: meta 4.2
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[2]
-      value: "Mede mais que 0\xBA e menos que 90\xBA"
+      value: 'meta 4.2 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[3]
-      value: "5 n\xFAmeros consecutivos"
+      value: meta 4.4
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[4]
-      value: Um conjunto com 10 elementos
+      value: 'meta 4.4 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[5]
-      value: "A divis\xE3o do n\xFAmero pelo seu quadrado"
+      value: meta 4.4
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[6]
-      value: 5 cm
+      value: meta 4.7
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[7]
-      value: Milhar
+      value: 'meta 4.6 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[8]
-      value: 10000 quilogramas
+      value: meta 4.a
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[9]
-      value: Oito faces quadradas
+      value: meta 4.a
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[0]
-      value: "Um cent\xE9simo"
+      value: meta 4.6
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[1]
-      value: 1000 elementos
+      value: meta 4.6
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[2]
-      value: "Mede 240\xBA ou mais"
+      value: meta 4.3
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[3]
-      value: "Per\xEDodo de 5 anos"
+      value: 'meta 4.3 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[4]
-      value: "Um combina\xE7\xE3o entre 10 n\xFAmeros"
+      value: 'meta 4.3 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[5]
-      value: "A divis\xE3o deste n\xFAmero por ele mesmo"
+      value: meta 4.6
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[6]
-      value: 50 cm
+      value: meta 4.6
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[7]
-      value: "Cent\xE9simo"
+      value: meta 4.4
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[8]
-      value: 100 quilogramas
+      value: 'meta 4.6 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[9]
-      value: Seis faces quadradas
+      value: 'meta 4.6 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[0]
-      value: Um milhar
+      value: meta 4.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[1]
-      value: Infinitos elementos
+      value: meta 4.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[2]
-      value: "Mede 180\xBA ou mais"
+      value: meta 4.5
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[3]
-      value: "Equa\xE7\xE3o com 5 termos"
+      value: 'meta 4.5 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[4]
-      value: "Um n\xFAmero elevado \xE0 pot\xEAncia 10"
+      value: meta 4.5
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[5]
-      value: "O produto deste n\xFAmero por todos inteiros anteriores a ele, at\xE9
-        chegar ao 1"
+      value: meta 4.9
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[6]
-      value: 5000 cm
+      value: meta 4.9
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[7]
-      value: "Milh\xE3o"
+      value: meta 4.a
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[8]
-      value: 100 metros quadrados
+      value: 'meta 4.c '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[9]
-      value: Quatro faces quadradas
+      value: meta 4.c
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}

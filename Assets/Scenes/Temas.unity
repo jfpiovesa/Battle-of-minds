@@ -484,12 +484,13 @@ MonoBehaviour:
   estrela_3: {fileID: 469572797}
   nometema:
   - Selecione um tema
-  - 'Vida Marinha '
-  - Meio Ambiente
-  - "Ci\xEAncias"
-  - "Matem\xE1tica"
-  - Geografia
-  - Esporte
+  - "Erradica\xE7\xE3o da pobreza"
+  - "Fome Zero e Agricultura Sustent\xE1vel"
+  - "Fome Zero e Agricultura Sustent\xE1vel"
+  - "Eduaca\xE7\xE3o de Qualidade"
+  - "Igualdade de G\xEAnero"
+  - "Garantir disponibilidade e manejo sustent\xE1vel da \xE1gua e saneamento para
+    todos"
   numerosquetoes: 10
 --- !u!1 &36771382
 GameObject:
@@ -1296,10 +1297,10 @@ RectTransform:
   m_Father: {fileID: 20236600}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -2.7000122, y: 3.5}
-  m_SizeDelta: {x: -75.35123, y: -45.56127}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 3.2}
+  m_SizeDelta: {x: 740, y: 130}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &117770045
 MonoBehaviour:
@@ -3947,14 +3948,14 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: b607f43c59693a544b653aa3e6eb8078, type: 3}
     m_FontSize: 60
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 10
     m_MaxSize: 60
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
+    m_VerticalOverflow: 1
     m_LineSpacing: 1
   m_Text: Selecione um Tema
 --- !u!222 &1087202162
@@ -7466,7 +7467,7 @@ PrefabInstance:
     - target: {fileID: 4505322223879670418, guid: 985b4ae6ff9d3ef488f957eec341e985,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 985b4ae6ff9d3ef488f957eec341e985, type: 3}

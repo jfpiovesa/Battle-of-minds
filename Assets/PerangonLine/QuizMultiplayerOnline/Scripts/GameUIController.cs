@@ -34,9 +34,6 @@ public class GameUIController : MonoBehaviour {
     private Button Answer2;
     [SerializeField]
     private Button Answer3;
-
- 
-
     [SerializeField]
     private Button Answer4;
 

@@ -3605,302 +3605,327 @@ PrefabInstance:
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[0]
-      value: H2O
+      value: "Assegurar uma vida saud\xE1vel e promover o bem-estar para todos, em
+        todas as idades."
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[1]
-      value: Clorofila
+      value: meta 3.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[2]
-      value: Flores
+      value: meta 3.2
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[3]
-      value: "Tanto de mat\xE9ria vegetal como animal"
+      value: meta 3.3
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[4]
-      value: "Inibir a prolifera\xE7\xE3o de bact\xE9rias"
+      value: meta 3.4
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[5]
-      value: Ser vivo que retira os nutrientes de outro ser vivo
+      value: meta 3.5
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[6]
-      value: "F\xEAmur"
+      value: 'meta 3.6 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[7]
-      value: Testosterona
+      value: meta 3.7
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[8]
-      value: Craca
+      value: meta 3.8
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[9]
-      value: "A respira\xE7\xE3o celular"
+      value: meta 3.9
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[0]
-      value: "Qual \xE9 a f\xF3rmula da \xE1gua?"
+      value: "O que busca o ODS3 (Objetivo de Desenvolvimento Sustent\xE1vel)?"
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[1]
-      value: "O pigmento respons\xE1vel pela cor verde das plantas"
+      value: "At\xE9 2030, reduzir a taxa de mortalidade materna global para menos
+        de 70 mortes por 100.000 nascidos vivos. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[2]
-      value: "O pistilo \xE9 encontrado em"
+      value: "Acabar com as mortes evit\xE1veis de rec\xE9m-nascidos e crian\xE7as
+        menores de 5 anos, com todos os pa\xEDses objetivando reduzir a mortalidade
+        neonatal para pelo menos 12 por 1.000 nascidos vivos e a mortalidade de crian\xE7as
+        menores de 5 anos para pelo menos 25 por 1.000 nascidos vivos. Qual meta
+        se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[3]
-      value: "Os animais on\xEDvoros s\xE3o aqueles que se alimentam..."
+      value: "Acabar com as epidemias de AIDS, tuberculose, mal\xE1ria e doen\xE7as
+        tropicais negligenciadas, e combater a hepatite, doen\xE7as transmitidas
+        pela \xE1gua, e outras doen\xE7as transmiss\xEDveis. Qual meta se refere
+        o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[4]
-      value: "Antibi\xF3ticos s\xE3o subst\xE2ncias org\xE2nicas capazes de"
+      value: "At\xE9 2030, reduzir em um ter\xE7o a mortalidade prematura por doen\xE7as
+        n\xE3o transmiss\xEDveis via preven\xE7\xE3o e tratamento, e promover a sa\xFAde
+        mental e o bem-estar. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[5]
-      value: "Em Biologia, parasita \xE9 um"
+      value: "Refor\xE7ar a preven\xE7\xE3o e o tratamento do abuso de subst\xE2ncias,
+        incluindo o abuso de drogas entorpecentes e uso nocivo do \xE1lcool. Qual
+        meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[6]
-      value: "O osso mais longo e mais volumoso do corpo humano \xE9 o..."
+      value: "At\xE9 2020, reduzir pela metade as mortes e os ferimentos globais
+        por acidentes em estradas. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[7]
-      value: "Qual \xE9 o nome do horm\xF4nio masculino produzido nos test\xEDculos?"
+      value: "At\xE9 2030, assegurar o acesso universal aos servi\xE7os de sa\xFAde
+        sexual e reprodutiva, incluindo o planejamento familiar, informa\xE7\xE3o
+        e educa\xE7\xE3o, bem como a integra\xE7\xE3o da sa\xFAde reprodutiva em
+        estrat\xE9gias e programas nacionais. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[8]
-      value: "Qual dos animais abaixo n\xE3o \xE9 uma ave?"
+      value: "Atingir a cobertura universal de sa\xFAde, incluindo a prote\xE7\xE3o
+        do risco financeiro, o acesso a servi\xE7os de sa\xFAde essenciais de qualidade
+        e o acesso a medicamentos e vacinas essenciais seguros, eficazes, de qualidade
+        e a pre\xE7os acess\xEDveis para todos. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[9]
-      value: "A mitoc\xF4ndria \xE9 uma organela bastante importante para..."
+      value: "At\xE9 2030, reduzir substancialmente o n\xFAmero de mortes e doen\xE7as
+        por produtos qu\xEDmicos perigosos, contamina\xE7\xE3o e polui\xE7\xE3o do
+        ar e \xE1gua do solo. Qual meta se refere o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[0]
-      value: CO2
+      value: "Assegurar uma vida saud\xE1vel e promover o bem-estar para todos, em
+        todas as idades."
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[1]
-      value: Carioteca
+      value: meta 5.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[2]
-      value: Flores
+      value: 'meta 5.1 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[3]
-      value: Apenas ovos
+      value: meta 3.3
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[4]
-      value: "Inibir a prolifera\xE7\xE3o de bact\xE9rias"
+      value: meta 3.4
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[5]
-      value: "Organismo que vive apenas na \xE1gua"
+      value: meta 3.4
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[6]
-      value: "F\xEAmur"
+      value: 'meta 3.4 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[7]
-      value: "Teratog\xEAnico"
+      value: 'meta 3.4 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[8]
-      value: Avestruz
+      value: meta 3.4
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[9]
-      value: "Composi\xE7\xE3o gen\xE9tica dos seres humanos"
+      value: meta 3.9
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[0]
-      value: H2O
+      value: "Assegurar a educa\xE7\xE3o inclusiva e equitativa e de qualidade, e
+        promover oportunidades de aprendizagem ao longo da vida para todos."
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[1]
-      value: Cevada
+      value: 'meta 1.2 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[2]
-      value: Animais
+      value: meta 1.2
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[3]
-      value: Apenas de vegetais
+      value: meta 1.2
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[4]
-      value: Matar insetos
+      value: meta 1.2
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[5]
-      value: "Animal que devora outro da mesma esp\xE9cie"
+      value: meta 3.5
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[6]
-      value: Martelo
+      value: meta 3.5
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[7]
-      value: "Estrog\xEAnio"
+      value: meta 3.7
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[8]
-      value: Craca
+      value: 'meta 3.7 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[9]
-      value: "Forma\xE7\xE3o do esqueleto humano"
+      value: 'meta 3.7 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[0]
-      value: H3O
+      value: Acabar com a pobreza em todas as suas formas, em todos os lugares.
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[1]
-      value: Clorofina
+      value: meta 4.c
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[2]
-      value: "R\xE9pteis"
+      value: meta 3.2
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[3]
-      value: "Tanto de mat\xE9ria vegetal como animal"
+      value: 'meta 3.2 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[4]
-      value: Aumentar a autoestima
+      value: 'meta 3.2 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[5]
-      value: Ser vivo que retira os nutrientes de outro ser vivo
+      value: meta 3.2
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[6]
-      value: Metacarpo
+      value: 'meta 3.6 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[7]
-      value: Testosterona
+      value: meta 3.6
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[8]
-      value: Coruja
+      value: meta 3.6
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[9]
-      value: "A respira\xE7\xE3o celular"
+      value: meta 3.6
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[0]
-      value: NaOH
+      value: "Acabar com a fome, alcan\xE7ar a seguran\xE7a alimentar e melhoria
+        da nutri\xE7\xE3o e promover a agricultura sustent\xE1vel."
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[1]
-      value: Clorofila
+      value: meta 3.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[2]
-      value: "Crust\xE1ceos"
+      value: meta 3.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[3]
-      value: "Aumentar a prolifera\xE7\xE3o de bact\xE9rias"
+      value: meta 3.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[4]
-      value: Golfinhos
+      value: meta 3.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[5]
-      value: "Animal que devora outro da mesma esp\xE9cie"
+      value: meta 3.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[6]
-      value: Bigorna
+      value: meta 3.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[7]
-      value: Tireoide
+      value: meta 3.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[8]
-      value: Ema
+      value: meta 3.8
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[9]
-      value: "Preserva\xE7\xE3o do meio ambiente"
+      value: meta 3.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}

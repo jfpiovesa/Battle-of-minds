@@ -3605,302 +3605,332 @@ PrefabInstance:
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[0]
-      value: 600 anos
+      value: meta 2.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[1]
-      value: Nuclear
+      value: meta 2.2
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[2]
-      value: Transformar materiais usados em novos produtos para uso.
+      value: meta 2.3
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[3]
-      value: Restos de alimentos
+      value: meta 2.4
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[4]
-      value: "Separa\xE7\xE3o e recolhimento dos res\xEDduos para reciclagem."
+      value: meta 2.5
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[5]
-      value: "Procurar locais espec\xEDficos para seu descarte."
+      value: 'meta 2.a '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[6]
-      value: "Reciclando pap\xE9is, jornais e revistas"
+      value: meta 2.b
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[7]
-      value: " O2 \u2013 oxig\xEAnio"
+      value: meta 2.c
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[8]
-      value: Barra de ferro
+      value: "Acabar com a fome, alcan\xE7ar a seguran\xE7a alimentar e melhoria
+        da nutri\xE7\xE3o e promover a agricultura sustent\xE1vel."
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: corretas.Array.data[9]
-      value: "N\xE3o polui."
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[0]
-      value: "Quantos anos \xE9 estimado para um pneu se decompor?"
+      value: "Acabar com a fome e garantir o acesso de todas as pessoas, em particular
+        os pobres e pessoas em situa\xE7\xF5es vulner\xE1veis, incluindo crian\xE7as,
+        a alimentos seguros, nutritivos e suficientes durante todo o ano. Qual meta
+        corresponde o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[1]
-      value: "Qual energia n\xE3o \xE9 renov\xE1vel?"
+      value: "At\xE9 2030, acabar com todas as formas de m\xE1-nutri\xE7\xE3o, incluindo
+        atingir. Qual meta corresponde o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[2]
-      value: "O que \xE9 Reciclagem?"
+      value: "At\xE9 2030, dobrar a produtividade agr\xEDcola e a renda dos pequenos
+        produtores de alimentos e oportunidades de agrega\xE7\xE3o de valor e de
+        emprego n\xE3o agr\xEDcola. Qual meta corresponde o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[3]
-      value: "O que pode ser Lixo Org\xE2nico?"
+      value: "Garantir sistemas sustent\xE1veis de produ\xE7\xE3o de alimentos e
+        implementar pr\xE1ticas agr\xEDcolas resilientes, que aumentem a produtividade
+        e a produ\xE7\xE3o, que ajudem a manter os ecossistemas e que melhorem progressivamente
+        a qualidade da terra e do solo. Qual meta corresponde o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[4]
-      value: "O que \xE9 coleta seletiva?"
+      value: "Manter a diversidade gen\xE9tica de sementes, plantas cultivadas, animais
+        de cria\xE7\xE3o e domesticados e suas respectivas esp\xE9cies selvagens
+        e garantir o acesso e a reparti\xE7\xE3o justa e equitativa dos benef\xEDcios
+        decorrentes da utiliza\xE7\xE3o dos recursos gen\xE9ticos e conhecimentos
+        tradicionais associados, como acordado internacionalmente. Qual meta corresponde
+        o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[5]
-      value: "O que fazer com o lixo eletr\xF4nico?"
+      value: "Aumentar o investimento em infraestrutura rural, pesquisa e extens\xE3o
+        de servi\xE7os agr\xEDcolas, desenvolvimento de tecnologia, e os bancos de
+        genes de plantas e animais, para aumentar a capacidade de produ\xE7\xE3o
+        agr\xEDcola nos pa\xEDses em desenvolvimento, em particular nos pa\xEDses
+        menos desenvolvidos. Qual meta corresponde o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[6]
-      value: "Como preservar \xE1rvores e florestas?"
+      value: "Corrigir e prevenir as restri\xE7\xF5es ao com\xE9rcio e distor\xE7\xF5es
+        nos mercados agr\xEDcolas mundiais, incluindo a elimina\xE7\xE3o paralela
+        de todas as formas de subs\xEDdios \xE0 exporta\xE7\xE3o e todas as medidas
+        de exporta\xE7\xE3o com efeito equivalente, de acordo com o mandato da Rodada
+        de Desenvolvimento de Doha. Qual meta corresponde o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[7]
-      value: "Qual dos gases n\xE3o \xE9 um dos gases do efeito estufa?"
+      value: "Adotar medidas para garantir o funcionamento adequado dos mercados
+        de commodities de alimentos e seus derivados, e facilitar o acesso oportuno
+        \xE0 informa\xE7\xE3o de mercado, inclusive sobre as reservas de alimentos,
+        a fim de ajudar a limitar a volatilidade extrema dos pre\xE7os dos alimentos.
+        Qual meta corresponde o texto? "
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[8]
-      value: "Qual dos elementos n\xE3o \xE9 utilizado como fonte de energia?"
+      value: "O que busca o ODS2 (Objetivo de Desenvolvimento Sustent\xE1vel)?"
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: perguntas.Array.data[9]
-      value: Indique uma vantagem da energia solar
+      value: "Quantos Objetivos de Desenvolvimento Sustent\xE1vel tem na agenda 2030?"
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[0]
-      value: 400 anos
+      value: 'meta 1.1 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[1]
-      value: "Hidrel\xE9trica"
+      value: 'meta 2.1 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[2]
-      value: Transformar materiais usados em novos produtos para uso.
+      value: 'meta 2.1 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[3]
-      value: Vidro
+      value: meta 2.4
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[4]
-      value: "Destina\xE7\xE3o de res\xEDduos para lix\xF5es e aterros."
+      value: meta 2.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[5]
-      value: 'Guardar em casa '
+      value: 'meta 2.1 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[6]
-      value: "Construindo uma casa na \xE1rvore."
+      value: meta 2.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[7]
-      value: "CO2 \u2013 g\xE1s carb\xF4nico"
+      value: meta 2.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[8]
-      value: Barra de ferro
+      value: "Assegurar uma vida saud\xE1vel e promover o bem-estar para todos, em
+        todas as idades"
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_A.Array.data[9]
-      value: "\xC9 dispon\xEDvel a todo momento."
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[0]
-      value: 600 anos
+      value: meta 2.1
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[1]
-      value: "E\xF3lica"
+      value: 'meta 2.2 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[2]
-      value: Jogar fora o lixo produzido
+      value: 'meta 2.2 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[3]
-      value: Metal
+      value: 'meta 3.2 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[4]
-      value: "Separa\xE7\xE3o e recolhimento dos res\xEDduos para reciclagem."
+      value: meta 3.2
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[5]
-      value: "Juntar com pl\xE1sticos e metais."
+      value: 'meta 3.2 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[6]
-      value: "Reciclando pap\xE9is, jornais e revistas"
+      value: 'meta 3.2 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[7]
-      value: "CH4 \u2013 metano"
+      value: meta 2.2
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[8]
-      value: " \xC1gua corrente"
+      value: "Assegurar a educa\xE7\xE3o inclusiva e equitativa e de qualidade, e
+        promover oportunidades de aprendizagem ao longo da vida para todos."
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_B.Array.data[9]
-      value: "\xC9 eficaz em qualquer clima."
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[0]
-      value: 200 anos
+      value: 'meta 1.a '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[1]
-      value: Nuclear
+      value: 'meta 2.a '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[2]
-      value: "Nome dado ao lixo ap\xF3s o descarte"
+      value: 'meta 2.a '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[3]
-      value: "Pl\xE1sticos"
+      value: 'meta 2.a '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[4]
-      value: Nenhuma das alternativas.
+      value: meta 2.5
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[5]
-      value: "Procurar locais espec\xEDficos para seu descarte."
+      value: meta 2.c
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[6]
-      value: Indo em parques.
+      value: 'meta 2.a '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[7]
-      value: " N2O \u2013 \xF3xido nitroso"
+      value: meta 2.c
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[8]
-      value: Sol
+      value: Acabar com a pobreza em todas as suas formas, em todos os lugares.
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_C.Array.data[9]
-      value: "N\xE3o \xE9 renov\xE1vel."
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[0]
-      value: 800 anos
+      value: 'meta 1.4 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[1]
-      value: Solar
+      value: meta 3.4
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[2]
-      value: Nenhuma das alternativas
+      value: meta 2.3
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[3]
-      value: Restos de alimentos
+      value: meta 2.3
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[4]
-      value: Entrega do lixo produzido para cooperativas.
+      value: 'meta 3.3 '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[5]
-      value: Jogar no lixo comum.
+      value: 'meta 2.a '
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[6]
-      value: Reutilizando metais e vidros.
+      value: meta 2.b
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[7]
-      value: " O2 \u2013 oxig\xEAnio"
+      value: meta 2.3
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[8]
-      value: "Petr\xF3leo"
+      value: "Acabar com a fome, alcan\xE7ar a seguran\xE7a alimentar e melhoria
+        da nutri\xE7\xE3o e promover a agricultura sustent\xE1vel."
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
       propertyPath: alternativa_D.Array.data[9]
-      value: "N\xE3o polui."
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 7816521958168908062, guid: e4fd653bfef67444798585d07d27b548,
         type: 3}
